@@ -1,7 +1,7 @@
 # whois
 Herramienta creada con Python
 
-# Instalar los siguientes modulos
+## Instalar los siguientes modulos
 
 ~~~
 pip install pyfiglet
