@@ -1,7 +1,7 @@
 # whois
 Herramienta creada con Python
 
-![Alt text](url "tool.png")
+<img src="tool.PNG">
 
 ## Instalar los siguientes modulos
 
