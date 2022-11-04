@@ -1,6 +1,8 @@
 # whois
 Herramienta creada con Python
 
+![Alt text](url "tool.png")
+
 ## Instalar los siguientes modulos
 
 ~~~
